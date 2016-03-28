@@ -1,4 +1,4 @@
 # leecode
 This is my LeeCode solution
 Hi this is my vim Setting;
-hello.
+Now I will do something in my project
